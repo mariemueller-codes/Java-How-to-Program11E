@@ -13,7 +13,7 @@ public class Exercise2_16 {
 			System.out.println("These numbers are equal.");
 		} else if(num1 > num2) {
 			System.out.println("First integer is greater than second integer");
-		} else if(num1 > num2) {
+		} else if(num1 < num2) {
 			System.out.println("First integer is less than second integer");
 		} else {
 			System.out.println("Invalid input");
