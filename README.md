@@ -2,7 +2,7 @@
 
 ### My solutions to some of the textbook's programming problems.
 
-### Links will be updated right after each chapter has been completed
+#### Links will be updated right after each chapter has been completed
 
 Disclaimer: I am in no means an expert in Java programming but want to show my Java programming skills.
 
