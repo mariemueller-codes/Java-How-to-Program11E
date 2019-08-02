@@ -7,7 +7,7 @@
 Disclaimer: I am in no means an expert in Java programming but want to show my Java programming skills.
 
  -	[Chapter 2: Introduction to Java Applications](https://github.com/mariemueller-codes/Java-How-to-Program11E/tree/master/Chapter2/exercises)
- -	Chapter 3: Introduction to Classes, Objects, Methods, and Strings
+ -	[Chapter 3: Introduction to Classes, Objects, Methods, and Strings](https://github.com/mariemueller-codes/Java-How-to-Program11E/tree/master/Chapter3/exercises)
  -	Chapter 4: Control Statements: Part 1
  -	Chapter 5: Control Statement: Part 2
  -	Chapter 6: Methods: A Deeper Look
